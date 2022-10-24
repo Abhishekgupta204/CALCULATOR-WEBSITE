@@ -5,7 +5,7 @@
 
 # <div align="center"><img src="https://raw.githubusercontent.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE/main/assets/img/Yoshitha%20Rathnayake%201.png" width="300px"></div>
 
-- This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayake (ME).
+- This Github repository explores the website of a Basic Calculator made by Yoshitha Rathnayake.
 - This website shows a preview of my Calculator. 
 - The link for downloading the Calculator app is also available on the website.
 - The programming languages used to build this website are- HTML, CSS and BOOTSTRAP.
@@ -16,7 +16,7 @@
 <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 
 #
-Available at : <b><i>[https://calculator.yoshitha.tk/](https://calculator.yoshitha.tk/)</i></b>
+Available at : <b><i>[calculator.yoshitha.tk](https://calculator.yoshitha.tk/)</i></b>
 
 
 #
@@ -30,6 +30,9 @@ This is a basic everyday Calculator with following features:
 
 <div>
 <p>You wanna see the application, don't you?</p>
+  
+#
+  
 <img src="assets\img\Calculator_Img.jpg" width="300px">
 </div>
 
@@ -70,7 +73,7 @@ If you run into an issue, we would be very happy if you would first create an is
 
 After having been assigned, open your Pull Requests.
 
-The Pull Requests will be reviewed and merged accordingly.
+The Pull Requests will be reviewed, accepted and merged accordingly.
 
 
 
